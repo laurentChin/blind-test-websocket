@@ -1,0 +1,25 @@
+{
+  "name": "blind-test-websocket",
+  "version": "1.0.0",
+  "description": "The websocket part of the Blind App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laurentChin/blind-test-websocket.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "socket.io",
+    "websocket"
+  ],
+  "author": "Laurent Janet <laurent.janet@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/laurentChin/blind-test-websocket/issues"
+  },
+  "homepage": "https://github.com/laurentChin/blind-test-websocket#readme"
+}
