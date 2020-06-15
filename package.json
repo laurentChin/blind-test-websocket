@@ -4,6 +4,8 @@
   "description": "The websocket part of the Blind App",
   "main": "index.js",
   "scripts": {
+    "start:watch": "nodemon index.js",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -29,5 +31,8 @@
     "nodemon": "^2.0.4",
     "prettier": "^2.0.5"
   },
-  "dependencies": {}
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
 }
